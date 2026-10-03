@@ -13,4 +13,13 @@ C e Python: Este repositório foca em C, e futuramente criarei um dedicado a Pyt
 <br>
 <strong>[AVISO]</strong> Caso volte a programar ativamente nessa linguagem, irei transferi-los para o GitHub. Por enquanto, o foco por aqui é este! 
 
+<br>
+
+## 📚 Recomendações de Leitura
+
+C: Como Programar — Paul Deitel & Harvey Deitel
+C Completo e Total — Herbert Schildt
+
+<br>
+
 OBS: <strong> Mimo e Khan Academy são simplesmente os melhores para programação </strong> — quem não concordar, que lute! E vai uma dica de ouro: se for ver videoaula no YouTube, dê preferência a quem tem a melhor didática ou aos carecas.
