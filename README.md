@@ -1,1 +1,1 @@
-# Fundamentos de Programação o em linguagem C
+# Fundamentos de Programação em linguagem C
