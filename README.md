@@ -4,10 +4,6 @@ O repositório Fundamentos de Programação em C funciona como um diário de bor
 
 O objetivo aqui não é criar os códigos mais perfeitos do mundo, mas sim documentar e acompanhar a minha evolução na programação procedural.
 
-Organização dos meus estudos:
-
-C e Python: Este repositório foca em C, e futuramente criarei um dedicado a Python.
-
 <br>
 
 📂 Organização do Repositório
