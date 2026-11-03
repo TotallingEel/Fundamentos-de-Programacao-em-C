@@ -12,7 +12,7 @@ C e Python: Este repositório foca em C, e futuramente criarei um dedicado a Pyt
 
 📂 Organização do Repositório
 
-Evolução de Linguagens: Este repositório foca-se atualmente em **C**, dividindo espaço com o meu estudo em **Python** e **JavaScript** — mantendo o malabarismo entre estudar estas três linguagens e garantir tempo para a rotina gamer
+Evolução de Linguagens: Este repositório foca-se atualmente em **C**, dividindo espaço com o meu estudo em **Python** e **JavaScript** 
 
 **Obs:** Os códigos em JavaScript estão presentes apenas na Khan Academy, no Mimo ou salvos localmente no meu computador, não possuindo um repositório dedicado no GitHub.
 
