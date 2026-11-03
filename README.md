@@ -10,6 +10,14 @@ C e Python: Este repositório foca em C, e futuramente criarei um dedicado a Pyt
 
 <br>
 
+📂 Organização do Repositório
+
+Evolução de Linguagens: Este repositório foca-se atualmente em **C**, dividindo espaço com o meu estudo em **Python** e **JavaScript** — mantendo o malabarismo entre estudar estas três linguagens e garantir tempo para a rotina gamer
+
+**Obs:** Os códigos em JavaScript estão presentes apenas na Khan Academy, no Mimo ou salvos localmente no meu computador, não possuindo um repositório dedicado no GitHub.
+
+<br>
+
 ## 📚 Recomendações de Leitura
 
 C: Como Programar — Paul Deitel & Harvey Deitel
